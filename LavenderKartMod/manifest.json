@@ -1,0 +1,19 @@
+﻿
+{
+  "Name": "LavenderKart",
+  "Author": "RoseBunnyPuppy",
+  "Version": "0.0.1",
+  "Description": "Lavender Kart! A mod to celebrate Cozyandcaffeinated's 1-year youtube-versary.",
+  "UniqueID": "RoseBunnyPuppy.LavenderKart",
+  "EntryDll": "LavenderKartMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "MinimumVersion": "1.16.0"
+    }
+  ],
+  "UpdateKeys": [
+    "GitHub:RoseBunnyPuppy/LavenderKartMod"
+  ]
+}
