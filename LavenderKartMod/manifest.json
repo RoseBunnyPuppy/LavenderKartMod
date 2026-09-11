@@ -2,7 +2,7 @@
 {
   "Name": "LavenderKart",
   "Author": "RoseBunnyPuppy",
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "Description": "Lavender Kart! A mod to celebrate Cozyandcaffeinated's 1-year youtube-versary.",
   "UniqueID": "RoseBunnyPuppy.LavenderKart",
   "EntryDll": "LavenderKartMod.dll",
@@ -14,6 +14,7 @@
     }
   ],
   "UpdateKeys": [
+    "Nexus:52163",
     "GitHub:RoseBunnyPuppy/LavenderKartMod"
   ]
 }
